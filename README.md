@@ -20,6 +20,9 @@ kịch bản.
 Dựa trên những tiêu chí :
 
 • Thân thiện với người dùng, dễ sử dụng
+
 • Tự động điều chỉnh cường độ sáng phù hợp
+
 • Tiết kiệm năng lượng, giá thành hợp lí
+
 • Tương thích với các hệ thống IoT, Smart Home
