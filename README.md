@@ -15,8 +15,8 @@ hồ… độ rọi tối thiểu lên tới 1000 lux. Do tính chất này chú
 sáng theo các công việc cụ thể với các giá trị độ rọi đã đưa ra. Hoặc có thể tùy chỉnh theo ý
 muốn.
 
-Vậy mục đích chính của đồ án là xây dựng một hệ thống chiếu sáng tự động theo
-kịch bản.
+Vậy mục đích chính của đồ án là xây dựng một <strong> hệ thống chiếu sáng tự động theo
+kịch bản </strong>.
 Dựa trên những tiêu chí :
 
 • Thân thiện với người dùng, dễ sử dụng
