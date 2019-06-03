@@ -1,10 +1,11 @@
-Chiếu sáng có thể chiến tới 10-38% tổng hóa đơn thanh toán tiền điện trong bất cứ
+<h1>Hệ thống chiếu sáng tự động theo kịch bản</h1>
+<p>Chiếu sáng có thể chiến tới 10-38% tổng hóa đơn thanh toán tiền điện trong bất cứ
 thành phố nào trên thế giới. Điều đáng quan tâm nhất trong công nghệ cho lĩnh vực này hiện
 tại là tự động hóa, tiêu thụ năng lượng và giá thành hợp lý. Tự động hóa có xu hướng giảm
 sức người với sự giúp đỡ của trí tuệ nhân tạo. Tiết kiệm năng lượng là điều đáng bàn nhất vì
-nó là nguồn năng lượng có hạn do nhiều lý do khác nhau.
+nó là nguồn năng lượng có hạn do nhiều lý do khác nhau.</p> 
 
-Việc chiếu sáng thực tế đời sống hiện nay vẫn còn đang thủ công. Tức là phần đa trong gia
+<p>Việc chiếu sáng thực tế đời sống hiện nay vẫn còn đang thủ công. Tức là phần đa trong gia
 đình, văn phòng, nhà máy… Hệ thống chiếu sáng vẫn đang còn rất đơn giản và bằng tay. Dù
 là hoạt động gì cũng chỉ bật tắt không cần biết cường độ sáng có phụ hợp hay không .
 Độ sáng ảnh hưởng rất lớn tới thị giác của con người. Cao quá sẽ gây hại cho mắt và
@@ -13,16 +14,16 @@ suất làm việc. Độ rọi tiêu chuẩn cho việc đọc sách là 500-55
 lux…, Đối với cấc công việc mang tính chất tỉ mỉ, chi tiết như chế tác mỹ ký, chi tiết đồng
 hồ… độ rọi tối thiểu lên tới 1000 lux. Do tính chất này chúng ta cần một hệ thống có chiếu
 sáng theo các công việc cụ thể với các giá trị độ rọi đã đưa ra. Hoặc có thể tùy chỉnh theo ý
-muốn.
+muốn.</p>
 
-Vậy mục đích chính của đồ án là xây dựng một <strong> hệ thống chiếu sáng tự động theo
-kịch bản </strong>.
-Dựa trên những tiêu chí :
+<p>Vậy mục đích chính của đồ án là xây dựng một <strong> hệ thống chiếu sáng tự động theo
+kịch bản </strong>.</p>
 
-• Thân thiện với người dùng, dễ sử dụng
+<p>Dựa trên những tiêu chí :</p>
+<ul>
+	<li>Thân thiện với người dùng, dễ sử dụng</li>
+	<li>Tự động điều chỉnh cường độ sáng phù hợp</li>
+	<li>Tiết kiệm năng lượng, giá thành hợp lí</li>
+	<li>Tương thích với các hệ thống IoT, Smart Home</li>
+</ul>
 
-• Tự động điều chỉnh cường độ sáng phù hợp
-
-• Tiết kiệm năng lượng, giá thành hợp lí
-
-• Tương thích với các hệ thống IoT, Smart Home
